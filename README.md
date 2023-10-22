@@ -1,1 +1,1 @@
-# hugging_faces_hackathon
+# hugging_faces_image_generator
